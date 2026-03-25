@@ -2,7 +2,7 @@
 
 Portafolio profesional.
 
-**Live:** *Se actualizará después del deploy*
+**Live:** [juan-zerpa.cofoundy.dev](https://juan-zerpa.cofoundy.dev/)
 
 ## Tech Stack
 
